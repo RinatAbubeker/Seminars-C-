@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\bin\Debug\net6.0\Задача10_препод.exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\bin\Debug\net6.0\Задача10_препод.deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\bin\Debug\net6.0\Задача10_препод.runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\bin\Debug\net6.0\Задача10_препод.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\bin\Debug\net6.0\Задача10_препод.pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\refint\Задача10_препод.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\Задача10_препод.genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача10_препод\obj\Debug\net6.0\ref\Задача10_препод.dll

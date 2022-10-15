@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\bin\Debug\net6.0\Задача50_ДЗ.exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\bin\Debug\net6.0\Задача50_ДЗ.deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\bin\Debug\net6.0\Задача50_ДЗ.runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\bin\Debug\net6.0\Задача50_ДЗ.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\bin\Debug\net6.0\Задача50_ДЗ.pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\refint\Задача50_ДЗ.dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\Задача50_ДЗ.genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача50_ДЗ\obj\Debug\net6.0\ref\Задача50_ДЗ.dll

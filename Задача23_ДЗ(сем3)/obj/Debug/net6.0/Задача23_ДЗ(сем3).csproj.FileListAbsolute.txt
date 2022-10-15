@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\bin\Debug\net6.0\Задача23_ДЗ(сем3).exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\bin\Debug\net6.0\Задача23_ДЗ(сем3).deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\bin\Debug\net6.0\Задача23_ДЗ(сем3).runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\bin\Debug\net6.0\Задача23_ДЗ(сем3).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\bin\Debug\net6.0\Задача23_ДЗ(сем3).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\refint\Задача23_ДЗ(сем3).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\Задача23_ДЗ(сем3).genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача23_ДЗ(сем3)\obj\Debug\net6.0\ref\Задача23_ДЗ(сем3).dll

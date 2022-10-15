@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задача18_сем3(самост)/1.0.0": {
+        "runtime": {
+          "Задача18_сем3(самост).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача18_сем3(самост)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

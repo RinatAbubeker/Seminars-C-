@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\bin\Debug\net6.0\Задача20(самост).exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\bin\Debug\net6.0\Задача20(самост).deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\bin\Debug\net6.0\Задача20(самост).runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\bin\Debug\net6.0\Задача20(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\bin\Debug\net6.0\Задача20(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\refint\Задача20(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\Задача20(самост).genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача20(самост)\obj\Debug\net6.0\ref\Задача20(самост).dll

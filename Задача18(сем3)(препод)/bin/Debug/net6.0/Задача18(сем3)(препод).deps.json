@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Задача18(сем3)(препод)/1.0.0": {
+        "runtime": {
+          "Задача18(сем3)(препод).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Задача18(сем3)(препод)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

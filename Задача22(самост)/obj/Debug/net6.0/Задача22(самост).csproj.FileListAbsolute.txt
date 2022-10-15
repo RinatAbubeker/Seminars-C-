@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\bin\Debug\net6.0\Задача22(самост).exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\bin\Debug\net6.0\Задача22(самост).deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\bin\Debug\net6.0\Задача22(самост).runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\bin\Debug\net6.0\Задача22(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\bin\Debug\net6.0\Задача22(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\refint\Задача22(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\Задача22(самост).genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача22(самост)\obj\Debug\net6.0\ref\Задача22(самост).dll

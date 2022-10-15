@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ринат\\Desktop\\Семинары C#(задачи)\\Задача29_ДЗ\\Задача29_ДЗ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ринат\\Desktop\\Семинары C#(задачи)\\Задача29_ДЗ\\Задача29_ДЗ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ринат\\Desktop\\Семинары C#(задачи)\\Задача29_ДЗ\\Задача29_ДЗ.csproj",
+        "projectName": "Задача29_ДЗ",
+        "projectPath": "C:\\Users\\Ринат\\Desktop\\Семинары C#(задачи)\\Задача29_ДЗ\\Задача29_ДЗ.csproj",
+        "packagesPath": "C:\\Users\\Ринат\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ринат\\Desktop\\Семинары C#(задачи)\\Задача29_ДЗ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ринат\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

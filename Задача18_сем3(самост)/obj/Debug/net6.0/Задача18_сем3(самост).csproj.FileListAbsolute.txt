@@ -1,0 +1,15 @@
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\bin\Debug\net6.0\Задача18_сем3(самост).exe
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\bin\Debug\net6.0\Задача18_сем3(самост).deps.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\bin\Debug\net6.0\Задача18_сем3(самост).runtimeconfig.json
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\bin\Debug\net6.0\Задача18_сем3(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\bin\Debug\net6.0\Задача18_сем3(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).csproj.AssemblyReference.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).AssemblyInfoInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).AssemblyInfo.cs
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).csproj.CoreCompileInputs.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\refint\Задача18_сем3(самост).dll
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).pdb
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\Задача18_сем3(самост).genruntimeconfig.cache
+C:\Users\Ринат\Desktop\Семинары C#(задачи)\Задача18_сем3(самост)\obj\Debug\net6.0\ref\Задача18_сем3(самост).dll
